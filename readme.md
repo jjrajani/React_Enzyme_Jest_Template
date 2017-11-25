@@ -2,7 +2,7 @@
 
 A test suite for practicing array methods.
 
-* for this repo into your github account
+* fork this repo into your github account
 * go to your forked version of this repo
 * `git clone` your forked repo onto your desktop
 * use your terminal to `cd` into the cloned folder
